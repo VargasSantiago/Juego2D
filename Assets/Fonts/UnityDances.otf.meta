@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0a5839b18de495a4ebc5aa192629560c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unity Dances
+  fontNames:
+  - Unity Dances
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e9d7bcbf32a516342b9c569e3dcad458, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
